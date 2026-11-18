@@ -2,5 +2,5 @@
 ._*
 .AppleDouble/
 .LSOverride
-/本体制作/模型/V20/rk-cameraman_V20_整机装配.step
-/本体制作/模型/V20/*.f3d
+rk-cameraman_V20_整机装配.step
+*.f3d
