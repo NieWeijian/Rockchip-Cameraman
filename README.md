@@ -8,15 +8,15 @@
 
 | 目录 | 内容 |
 | --- | --- |
-| [V20 模型](本体制作/机械结构/模型/V20/) | 整机 STEP 无损压缩文件 |
-| [V20-R1 打印件](本体制作/机械结构/3D打印/) | 25 个 STL、单台打印 ZIP、打印清单与修订说明 |
-| [BOM](本体制作/BOM/) | 整机 BOM、采购加工表与历史参考 |
+| [V20 模型](本体制作-V20/机械结构/模型/V20/) | 整机 STEP 无损压缩文件 |
+| [V20-R1 打印件](本体制作-V20/机械结构/3D打印/) | 25 个 STL、单台打印 ZIP、打印清单与修订说明 |
+| [BOM](本体制作-V20/BOM/) | 整机 BOM、采购加工表与历史参考 |
 
 | 文件 | 内容 |
 | --- | --- |
-| [V20 合并 BOM 与采购加工表](本体制作/BOM/RK-Cameraman_V20_合并BOM与采购加工表.numbers) | 当前版本的 BOM 与采购加工资料 |
-| [V20 紧固件与标准件采购清单](本体制作/BOM/rk-cameramen加工/采购件/RK-Cameraman_V20_紧固件与标准件采购清单2.numbers) | 紧固件与标准件采购资料 |
-| [V19 分类 BOM](本体制作/BOM/rk-cameramen加工/RK-Cameraman_V19_分类BOM.numbers) | 历史版本参考，V20 资料优先 |
+| [V20 合并 BOM 与采购加工表](本体制作-V20/BOM/RK-Cameraman_V20_合并BOM与采购加工表.numbers) | 当前版本的 BOM 与采购加工资料 |
+| [V20 紧固件与标准件采购清单](本体制作-V20/BOM/rk-cameramen加工/采购件/RK-Cameraman_V20_紧固件与标准件采购清单2.numbers) | 紧固件与标准件采购资料 |
+| [V19 分类 BOM](本体制作-V20/BOM/rk-cameramen加工/RK-Cameraman_V19_分类BOM.numbers) | 历史版本参考，V20 资料优先 |
 
 当前表格为 Apple Numbers 格式，下载后使用兼容应用打开。
 
